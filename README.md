@@ -6,3 +6,5 @@ ideas as a neural network, if in very basic form. Hopefully I can transition to 
 future.
 
 Until then, cheers!
+
+PS, here is a blog post I wrote on this stuff: http://jasondrain.io/a-rudimentary-neural-network.html
